@@ -400,3 +400,17 @@ hr{
     transform: scale(1);
     transition: all .4s;
 }
+
+.dlauVe {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    margin: 3rem 0px;
+}
+
+.dnnCMa {
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+}
